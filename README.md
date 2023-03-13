@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently studying **Software Engineering**
 
-- 🌱 I’m currently learning **Phyton**
+- 🌱 I’m currently learning **Python**
 
 - 📫 How to reach me **mateus.ozorio@edu.unifil.br**
 
