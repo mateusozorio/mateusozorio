@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mateus Kreling Ozorio</h1>
 <h3 align="center">A passionate frontend developer from Londrina, Brazil.</h3>
 
-- 🔭 I’m currently **studying Software Engineering**
+- 🔭 I’m currently studying **Software Engineering**
 
 - 🌱 I’m currently learning **Phyton**
 
